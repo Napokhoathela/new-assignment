@@ -1,0 +1,22 @@
+/* style.css */
+
+.root {
+    -fx-alignment: center;
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #333;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
